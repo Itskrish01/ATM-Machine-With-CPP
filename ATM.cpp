@@ -1,6 +1,6 @@
 /*
 Made by itsKrish01
-If you find any problem in it, then contact me.
+If you find any problem in it, then send me the issue at Krishtasood@gmail.com
 */
 
 
